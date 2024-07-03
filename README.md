@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasalgad
-- 👀 I’m interested in all related to predictions and analisys data, I'am specialize on makrketing, sales and on a role of CEO for 15 years
+- 👀 I’m interested in all data that is about sales, incomes, and financial data,
 - 🌱 I’m currently learning data sience and machine learning
-- 💞️ I’m looking to colaborate on companies to want or need to change there philosophy takeing care their market share
+- 💞️ I’m looking to colaborate with companies that need to change their philosophy and want to increase its market share with innovation thinking
 - 📫 How to reach me: javieroliva@me.com
 
 
